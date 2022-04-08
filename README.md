@@ -8,20 +8,33 @@ In 2013, the Caribbean underwent an unprecedented epidemic of Chikungunya that a
 The infection is propagated preferentially among islands that belong to the same cultural domain, irrespective of their human and vector population densities. The model shows how a simple epidemic model coupled to an appropriate human mobility model can reproduce the observed epidemiological dynamics. 
 
 The files you can dowonload from this repository are the follow:
+
 _________________________________________________________________________________________________________________________________________________________
+
 
 PAHOTable.csv: This file have the number of cases reported to PAHO by each country. Acording to PAHO, this data correspond to fully confirmed cases. The atributes in this data set are
+
             (*) Cases: Total number of cases (Confirmed)
+            
             (*) Date: Date of the report
+            
             (*) Country: Name of the country 
+            
 _________________________________________________________________________________________________________________________________________________________
 
+
 PAHO_ChartxCountry_data.csv: This file have the number of cases reported to PAHO by each country as the PAHOTable.csv but with some extra data atributes. The atributes in this data set are
+
             (*) Country: Name of the country  
+            
             (*) Date: Date of the report	
+            
             (*) YEAR: Year the outbreack	
-            (*) WEEK: epidemiological week	
+            
+            (*) WEEK: epidemiological week
+            
             (*) Cases: Number of confirmed cases
+            
 
 _________________________________________________________________________________________________________________________________________________________
 
@@ -30,54 +43,92 @@ island_connections_caribbean.csv: Conection Matrix for the Islands. Here you can
 _________________________________________________________________________________________________________________________________________________________
 
 locations_populations.csv: The information about spatial location of each node is described in this file. The data atributes are the next.
+
             (*) location:	Country name
+            
             (*) pop_size:	Number of inhabitants
+            
             (*) density: Population density 	
+            
             (*) year:	Update year
-            (*) reference: Data source	
+            
+            (*) reference: Data source
+            
             (*) lat: Latitude
+            
             (*) lon: Longitude	
+            
             (*) area-sqkm: Size of the country in km²
+            
 
 _________________________________________________________________________________________________________________________________________________________
 
 airports.csv: Information about air connectivity
-            (*) Airport ID: International identification number of the Airport	
+
+            (*) Airport ID: International identification number of the Airport
+            
             (*) Name: Name of the airport	
+            
             (*) City: City where the airport is located	
+            
             (*) Country: Country where the airport is located	
+            
             (*) IATA/FAA: International Air Transport Association code	
+            
             (*) ICAO: International Civil Aviation Organization code 	
+            
             (*) Latitude	
+            
             (*) Longitude	
+            
             (*) Altitude	
+            
             (*) Timezone	
 
 _________________________________________________________________________________________________________________________________________________________
 
 Chikungunya_file_28August2014_Tycho.csv: This is the TYCHO data set. This data set was discontinued but this is the very last version of 2017-2018. This data come from several data sources. you can find more information in TYCHO project
+
             (*) id: Country ID	
+            
             (*) COUNTRY: Country name	
+            
             (*) YEAR: Year of the outbreack	
+            
             (*) WEEK: Epidemiological week	
+            
             (*) Week_Sus_Cases: Suspected cases	
+            
             (*) Incidence_sus_cases: Incidence of suspeted cases	
+            
             (*) Cum_sus_cases: Cunulative suspected cases	
+            
             (*) Week_conf_cases: Confirmed cases
-            (*) Incidence_conf_cases: Incidence of confirmed cases	
+            
+            (*) Incidence_conf_cases: Incidence of confirmed cases
+            
             (*) Cum_conf_cases: Cumulative confirmed cases	
+            
             (*) Week_import_cases: Imported cases	
+            
             (*) Cum_import_cases: Cumulative imported cases	
+            
             (*) Week_deaths: Deaths	
+            
             (*) Cum_deaths: Cumulative deaths	
+            
             (*) Population: Population size	
+            
             (*) Source: Source of the data.
 
 
 _________________________________________________________________________________________________________________________________________________________
+
 Sources:
 
+
 https://www.tycho.pitt.edu/data/
+
 
 https://www3.paho.org/hq/index.php?option=com_topics&view=rdmore&cid=5927&Itemid=40242&lang=en
 
