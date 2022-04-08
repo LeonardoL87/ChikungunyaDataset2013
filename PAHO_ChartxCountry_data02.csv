@@ -1,0 +1,688 @@
+Country,Month of Date,YEAR,WEEK,Cases
+Saint Barthelemy,01/12/13,2013,48,8
+Martinique,01/12/13,2013,48,8
+Saint Martin,01/12/13,2013,48,89
+Sint Maarten,01/12/13,2013,48,1
+Guadeloupe,01/12/13,2013,48,3
+Turks and Caicos Islands,01/01/14,2014,1,9
+Barbados,01/01/14,2014,1,5
+Puerto Rico,01/01/14,2014,1,48
+Dominica,01/01/14,2014,1,4
+Suriname,01/01/14,2014,1,387
+Saint Lucia,01/01/14,2014,1,356
+French Guyana,01/01/14,2014,1,113
+Aruba,01/02/14,2014,5,11
+Turks and Caicos Islands,01/02/14,2014,5,55
+Antigua and Barbuda,01/02/14,2014,5,1
+Puerto Rico,01/02/14,2014,5,71
+Dominica,01/02/14,2014,5,51
+Paraguay,01/02/14,2014,5,1
+Suriname,01/02/14,2014,5,289
+Grenada,01/02/14,2014,5,10
+Saint Lucia,01/02/14,2014,5,694
+French Guyana,01/02/14,2014,5,357
+Aruba,01/03/14,2014,9,21
+Turks and Caicos Islands,01/03/14,2014,9,58
+Barbados,01/03/14,2014,9,2
+Puerto Rico,01/03/14,2014,9,440
+Dominica,01/03/14,2014,9,584
+Suriname,01/03/14,2014,9,2865
+Grenada,01/03/14,2014,9,15
+Saint Lucia,01/03/14,2014,9,11626
+French Guyana,01/03/14,2014,9,3066
+Aruba,01/04/14,2014,14,1
+Barbados,01/04/14,2014,14,2
+Sint Maarten,01/04/14,2014,14,27
+Anguilla,01/04/14,2014,14,1
+Puerto Rico,01/04/14,2014,14,53
+Dominica,01/04/14,2014,14,718
+Suriname,01/04/14,2014,14,323
+Grenada,01/04/14,2014,14,18
+Saint Lucia,01/04/14,2014,14,8531
+French Guyana,01/04/14,2014,14,5789
+Dominican Republic,01/04/14,2014,14,7537
+Barbados,01/05/14,2014,18,11
+Sint Maarten,01/05/14,2014,18,140
+Anguilla,01/05/14,2014,18,3
+Puerto Rico,01/05/14,2014,18,35
+Dominica,01/05/14,2014,18,582
+Paraguay,01/05/14,2014,18,21
+Suriname,01/05/14,2014,18,160
+Grenada,01/05/14,2014,18,157
+Peru,01/05/14,2014,18,1
+El Salvador,01/05/14,2014,18,4
+Haiti,01/05/14,2014,18,6318
+Saint Lucia,01/05/14,2014,18,9500
+French Guyana,01/05/14,2014,18,15097
+Honduras,01/05/14,2014,18,2
+Dominican Republic,01/05/14,2014,18,31119
+United States of America,01/06/14,2014,22,2
+Trinidad and Tobago,01/06/14,2014,22,13
+Antigua and Barbuda,01/06/14,2014,22,1
+Sint Maarten,01/06/14,2014,22,229
+Puerto Rico,01/06/14,2014,22,107
+Dominica,01/06/14,2014,22,1304
+Paraguay,01/06/14,2014,22,37
+Suriname,01/06/14,2014,22,110
+Grenada,01/06/14,2014,22,104
+Venezuela,01/06/14,2014,22,7
+Peru,01/06/14,2014,22,227
+Guatemala,01/06/14,2014,22,5
+El Salvador,01/06/14,2014,22,240
+Haiti,01/06/14,2014,22,45526
+Saint Lucia,01/06/14,2014,22,5800
+French Guyana,01/06/14,2014,22,17303
+Honduras,01/06/14,2014,22,14
+Guadeloupe,01/06/14,2014,22,1520
+Dominican Republic,01/06/14,2014,22,126795
+United States of America,01/07/14,2014,27,8
+Bonaire Saint Eustatius and Saba,01/07/14,2014,27,13
+Aruba,01/07/14,2014,27,5
+Saint Vincent and the Grenadines,01/07/14,2014,27,2
+Cuba,01/07/14,2014,27,1
+Chile,01/07/14,2014,27,1
+Uruguay,01/07/14,2014,27,2
+Martinique,01/07/14,2014,27,1
+Trinidad and Tobago,01/07/14,2014,27,11
+Bahamas,01/07/14,2014,27,1
+Puerto Rico,01/07/14,2014,27,180
+Dominica,01/07/14,2014,27,457
+Suriname,01/07/14,2014,27,330
+Grenada,01/07/14,2014,27,979
+Peru,01/07/14,2014,27,1020
+Haiti,01/07/14,2014,27,12865
+Saint Lucia,01/07/14,2014,27,17560
+French Guyana,01/07/14,2014,27,29340
+Guadeloupe,01/07/14,2014,27,833
+Dominican Republic,01/07/14,2014,27,142482
+Saint Vincent and the Grenadines,01/08/14,2014,31,5
+Antigua and Barbuda,01/08/14,2014,31,2
+Saint Kitts and Nevis,01/08/14,2014,31,15
+Bahamas,01/08/14,2014,31,79
+Cayman Islands,01/08/14,2014,31,14
+Puerto Rico,01/08/14,2014,31,100
+Suriname,01/08/14,2014,31,230
+Grenada,01/08/14,2014,31,923
+Venezuela,01/08/14,2014,31,438
+Peru,01/08/14,2014,31,5004
+United States Virgin Islands,01/08/14,2014,31,95
+Saint Lucia,01/08/14,2014,31,6880
+French Guyana,01/08/14,2014,31,5660
+Guadeloupe,01/08/14,2014,31,5679
+Dominican Republic,01/08/14,2014,31,121559
+Bonaire Saint Eustatius and Saba,01/09/14,2014,36,66
+Saint Vincent and the Grenadines,01/09/14,2014,36,4
+Uruguay,01/09/14,2014,36,41
+Martinique,01/09/14,2014,36,9
+Turks and Caicos Islands,01/09/14,2014,36,237
+Trinidad and Tobago,01/09/14,2014,36,570
+Antigua and Barbuda,01/09/14,2014,36,100
+Anguilla,01/09/14,2014,36,693
+Saint Kitts and Nevis,01/09/14,2014,36,207
+Cayman Islands,01/09/14,2014,36,651
+Puerto Rico,01/09/14,2014,36,85
+Suriname,01/09/14,2014,36,180
+Grenada,01/09/14,2014,36,3962
+Venezuela,01/09/14,2014,36,334
+Guyana,01/09/14,2014,36,8
+Peru,01/09/14,2014,36,3194
+United States Virgin Islands,01/09/14,2014,36,1044
+El Salvador,01/09/14,2014,36,90
+Saint Lucia,01/09/14,2014,36,4810
+French Guyana,01/09/14,2014,36,1822
+Honduras,01/09/14,2014,36,60
+Guadeloupe,01/09/14,2014,36,8411
+Costa Rica,01/09/14,2014,36,4697
+Dominican Republic,01/09/14,2014,36,56898
+Brazil,01/09/14,2014,36,2
+Aruba,01/10/14,2014,40,7
+Chile,01/10/14,2014,40,24
+Uruguay,01/10/14,2014,40,50
+Turks and Caicos Islands,01/10/14,2014,40,42
+Barbados,01/10/14,2014,40,24
+Trinidad and Tobago,01/10/14,2014,40,242
+Antigua and Barbuda,01/10/14,2014,40,68
+Sint Maarten,01/10/14,2014,40,98
+Anguilla,01/10/14,2014,40,570
+Saint Kitts and Nevis,01/10/14,2014,40,554
+Bahamas,01/10/14,2014,40,506
+Puerto Rico,01/10/14,2014,40,29
+Montserrat,01/10/14,2014,40,61
+Suriname,01/10/14,2014,40,160
+Mexico,01/10/14,2014,40,13
+Grenada,01/10/14,2014,40,3495
+Venezuela,01/10/14,2014,40,290
+Guyana,01/10/14,2014,40,465
+Peru,01/10/14,2014,40,8286
+United States Virgin Islands,01/10/14,2014,40,6231
+Guatemala,01/10/14,2014,40,2847
+Saint Lucia,01/10/14,2014,40,4090
+Nicaragua,01/10/14,2014,40,1
+French Guyana,01/10/14,2014,40,2250
+Costa Rica,01/10/14,2014,40,15006
+Brazil,01/10/14,2014,40,171
+Martinique,01/11/14,2014,44,12
+Saint Martin,01/11/14,2014,44,74
+Antigua and Barbuda,01/11/14,2014,44,137
+Sint Maarten,01/11/14,2014,44,895
+Anguilla,01/11/14,2014,44,150
+Saint Kitts and Nevis,01/11/14,2014,44,503
+Bahamas,01/11/14,2014,44,1005
+Cayman Islands,01/11/14,2014,44,2008
+Dominica,01/11/14,2014,44,61
+Paraguay,01/11/14,2014,44,400
+Jamaica,01/11/14,2014,44,1390
+Grenada,01/11/14,2014,44,3529
+Venezuela,01/11/14,2014,44,377
+Guyana,01/11/14,2014,44,155
+Peru,01/11/14,2014,44,3038
+United States Virgin Islands,01/11/14,2014,44,20917
+El Salvador,01/11/14,2014,44,543
+French Guyana,01/11/14,2014,44,592
+Guadeloupe,01/11/14,2014,44,118940
+Costa Rica,01/11/14,2014,44,19798
+Dominican Republic,01/11/14,2014,44,12610
+United States of America,01/12/14,2014,49,9
+Saint Barthelemy,01/12/14,2014,49,3
+Bonaire Saint Eustatius and Saba,01/12/14,2014,49,13
+Aruba,01/12/14,2014,49,35
+Chile,01/12/14,2014,49,168
+Uruguay,01/12/14,2014,49,84
+Turks and Caicos Islands,01/12/14,2014,49,68
+Saint Martin,01/12/14,2014,49,57
+Barbados,01/12/14,2014,49,350
+Trinidad and Tobago,01/12/14,2014,49,374
+Antigua and Barbuda,01/12/14,2014,49,107
+Anguilla,01/12/14,2014,49,15
+Saint Kitts and Nevis,01/12/14,2014,49,178
+Bahamas,01/12/14,2014,49,50
+Puerto Rico,01/12/14,2014,49,379
+Montserrat,01/12/14,2014,49,3455
+Suriname,01/12/14,2014,49,500
+Jamaica,01/12/14,2014,49,2691
+Mexico,01/12/14,2014,49,60
+Grenada,01/12/14,2014,49,878
+Venezuela,01/12/14,2014,49,102
+Guyana,01/12/14,2014,49,21429
+Ecuador,01/12/14,2014,49,3
+Peru,01/12/14,2014,49,3340
+United States Virgin Islands,01/12/14,2014,49,8628
+Guatemala,01/12/14,2014,49,244
+Saint Lucia,01/12/14,2014,49,3860
+French Guyana,01/12/14,2014,49,238
+Costa Rica,01/12/14,2014,49,35065
+Dominican Republic,01/12/14,2014,49,25381
+Brazil,01/12/14,2014,49,1922
+Bonaire Saint Eustatius and Saba,01/01/15,2015,1,3
+Aruba,01/01/15,2015,1,28
+Cuba,01/01/15,2015,1,99
+Chile,01/01/15,2015,1,21
+Uruguay,01/01/15,2015,1,114
+Saint Martin,01/01/15,2015,1,36
+Antigua and Barbuda,01/01/15,2015,1,529
+Sint Maarten,01/01/15,2015,1,4
+Anguilla,01/01/15,2015,1,12
+Saint Kitts and Nevis,01/01/15,2015,1,244
+Bahamas,01/01/15,2015,1,222
+Dominica,01/01/15,2015,1,2
+Montserrat,01/01/15,2015,1,1129
+Jamaica,01/01/15,2015,1,1266
+Mexico,01/01/15,2015,1,46
+Grenada,01/01/15,2015,1,2209
+Venezuela,01/01/15,2015,1,49
+Guyana,01/01/15,2015,1,5484
+Peru,01/01/15,2015,1,2254
+El Salvador,01/01/15,2015,1,6
+Honduras,01/01/15,2015,1,5339
+Guadeloupe,01/01/15,2015,1,2272
+Costa Rica,01/01/15,2015,1,52778
+Dominican Republic,01/01/15,2015,1,14802
+Brazil,01/01/15,2015,1,806
+Bermuda,01/02/15,2015,5,29
+Bonaire Saint Eustatius and Saba,01/02/15,2015,5,4
+Aruba,01/02/15,2015,5,8
+Cuba,01/02/15,2015,5,127
+Chile,01/02/15,2015,5,53
+Uruguay,01/02/15,2015,5,12
+Saint Martin,01/02/15,2015,5,74
+Antigua and Barbuda,01/02/15,2015,5,410
+Sint Maarten,01/02/15,2015,5,25
+Anguilla,01/02/15,2015,5,14
+Saint Kitts and Nevis,01/02/15,2015,5,55
+Bahamas,01/02/15,2015,5,1
+Puerto Rico,01/02/15,2015,5,297
+Dominica,01/02/15,2015,5,8
+Paraguay,01/02/15,2015,5,196
+Suriname,01/02/15,2015,5,450
+Jamaica,01/02/15,2015,5,1556
+Mexico,01/02/15,2015,5,12
+Grenada,01/02/15,2015,5,2869
+Venezuela,01/02/15,2015,5,307
+Ecuador,01/02/15,2015,5,63
+Peru,01/02/15,2015,5,4352
+Nicaragua,01/02/15,2015,5,128
+Guadeloupe,01/02/15,2015,5,5517
+Costa Rica,01/02/15,2015,5,49843
+Brazil,01/02/15,2015,5,1115
+Saint Barthelemy,01/03/15,2015,9,20
+Martinique,01/03/15,2015,9,320
+Saint Martin,01/03/15,2015,9,40
+Barbados,01/03/15,2015,9,155
+Antigua and Barbuda,01/03/15,2015,9,2
+Anguilla,01/03/15,2015,9,3
+Puerto Rico,01/03/15,2015,9,598
+Paraguay,01/03/15,2015,9,175
+Mexico,01/03/15,2015,9,217
+Ecuador,01/03/15,2015,9,147
+United States Virgin Islands,01/03/15,2015,9,13
+El Salvador,01/03/15,2015,9,1320
+Nicaragua,01/03/15,2015,9,19052
+French Guyana,01/03/15,2015,9,1396
+Honduras,01/03/15,2015,9,11265
+Guadeloupe,01/03/15,2015,9,150
+Costa Rica,01/03/15,2015,9,16
+Colombia,01/03/15,2015,9,55733
+Dominican Republic,01/03/15,2015,9,39
+Brazil,01/03/15,2015,9,1339
+Trinidad and Tobago,01/04/15,2015,14,10
+Anguilla,01/04/15,2015,14,7
+Bahamas,01/04/15,2015,14,3
+Cayman Islands,01/04/15,2015,14,6
+Puerto Rico,01/04/15,2015,14,133
+Montserrat,01/04/15,2015,14,1
+Paraguay,01/04/15,2015,14,565
+Mexico,01/04/15,2015,14,448
+Bolivia,01/04/15,2015,14,575
+Ecuador,01/04/15,2015,14,3693
+Guatemala,01/04/15,2015,14,4337
+El Salvador,01/04/15,2015,14,1474
+French Guyana,01/04/15,2015,14,692
+Honduras,01/04/15,2015,14,4729
+Costa Rica,01/04/15,2015,14,7
+Colombia,01/04/15,2015,14,53993
+Dominican Republic,01/04/15,2015,14,6
+Brazil,01/04/15,2015,14,436
+Saint Martin,01/05/15,2015,18,110
+Puerto Rico,01/05/15,2015,18,49
+Paraguay,01/05/15,2015,18,494
+Jamaica,01/05/15,2015,18,50
+Mexico,01/05/15,2015,18,260
+Venezuela,01/05/15,2015,18,12778
+Colombia,01/05/15,2015,18,42722
+Dominican Republic,01/05/15,2015,18,14
+Brazil,01/05/15,2015,18,160
+Aruba,01/06/15,2015,23,18
+Barbados,01/06/15,2015,23,237
+Trinidad and Tobago,01/06/15,2015,23,61
+Panama,01/06/15,2015,23,5
+Puerto Rico,01/06/15,2015,23,61
+Paraguay,01/06/15,2015,23,1186
+Mexico,01/06/15,2015,23,424
+Ecuador,01/06/15,2015,23,3848
+Peru,01/06/15,2015,23,18
+Guatemala,01/06/15,2015,23,2652
+El Salvador,01/06/15,2015,23,4583
+French Guyana,01/06/15,2015,23,110
+Honduras,01/06/15,2015,23,10999
+Colombia,01/06/15,2015,23,39826
+Panama,01/07/15,2015,27,8
+Puerto Rico,01/07/15,2015,27,165
+Paraguay,01/07/15,2015,27,146
+Mexico,01/07/15,2015,27,1057
+Ecuador,01/07/15,2015,27,14041
+El Salvador,01/07/15,2015,27,9742
+French Guyana,01/07/15,2015,27,550
+Honduras,01/07/15,2015,27,11618
+Colombia,01/07/15,2015,27,34738
+Dominican Republic,01/07/15,2015,27,4
+Brazil,01/07/15,2015,27,5276
+Panama,01/08/15,2015,31,127
+Puerto Rico,01/08/15,2015,31,76
+Paraguay,01/08/15,2015,31,518
+Mexico,01/08/15,2015,31,1924
+Venezuela,01/08/15,2015,31,1880
+Ecuador,01/08/15,2015,31,1823
+Peru,01/08/15,2015,31,44
+El Salvador,01/08/15,2015,31,10349
+Nicaragua,01/08/15,2015,31,20953
+French Guyana,01/08/15,2015,31,70
+Honduras,01/08/15,2015,31,22673
+Colombia,01/08/15,2015,31,13473
+Dominican Republic,01/08/15,2015,31,4
+Brazil,01/08/15,2015,31,400
+Puerto Rico,01/09/15,2015,36,64
+Paraguay,01/09/15,2015,36,436
+Mexico,01/09/15,2015,36,2843
+Venezuela,01/09/15,2015,36,360
+Ecuador,01/09/15,2015,36,668
+Peru,01/09/15,2015,36,90
+El Salvador,01/09/15,2015,36,5548
+Nicaragua,01/09/15,2015,36,5778
+French Guyana,01/09/15,2015,36,310
+Colombia,01/09/15,2015,36,13139
+Brazil,01/09/15,2015,36,2791
+Panama,01/10/15,2015,40,8
+Puerto Rico,01/10/15,2015,40,36
+Paraguay,01/10/15,2015,40,462
+Mexico,01/10/15,2015,40,1587
+Venezuela,01/10/15,2015,40,237
+Ecuador,01/10/15,2015,40,368
+Nicaragua,01/10/15,2015,40,9992
+French Guyana,01/10/15,2015,40,130
+Colombia,01/10/15,2015,40,7199
+Brazil,01/10/15,2015,40,1582
+Martinique,01/11/15,2015,44,21
+Saint Martin,01/11/15,2015,44,2
+Puerto Rico,01/11/15,2015,44,99
+Paraguay,01/11/15,2015,44,181
+Mexico,01/11/15,2015,44,1760
+Venezuela,01/11/15,2015,44,239
+Ecuador,01/11/15,2015,44,199
+Peru,01/11/15,2015,44,33
+French Guyana,01/11/15,2015,44,73
+Honduras,01/11/15,2015,44,10168
+Guadeloupe,01/11/15,2015,44,7
+Colombia,01/11/15,2015,44,11965
+Brazil,01/11/15,2015,44,2506
+Panama,01/12/15,2015,49,6
+Puerto Rico,01/12/15,2015,49,61
+Paraguay,01/12/15,2015,49,150
+Mexico,01/12/15,2015,49,708
+Venezuela,01/12/15,2015,49,345
+Ecuador,01/12/15,2015,49,4157
+Guatemala,01/12/15,2015,49,21893
+Colombia,01/12/15,2015,49,3119
+Panama,01/01/16,2016,1,5
+Puerto Rico,01/01/16,2016,1,1
+Paraguay,01/01/16,2016,1,9
+Mexico,01/01/16,2016,1,116
+Venezuela,01/01/16,2016,1,1599
+Ecuador,01/01/16,2016,1,281
+Peru,01/01/16,2016,1,110
+Guatemala,01/01/16,2016,1,2982
+El Salvador,01/01/16,2016,1,2414
+Nicaragua,01/01/16,2016,1,17158
+Honduras,01/01/16,2016,1,3366
+Costa Rica,01/01/16,2016,1,628
+Colombia,01/01/16,2016,1,3750
+Brazil,01/01/16,2016,1,2593
+Sint Maarten,01/02/16,2016,6,12
+Panama,01/02/16,2016,6,1
+Puerto Rico,01/02/16,2016,6,13
+Paraguay,01/02/16,2016,6,9
+Mexico,01/02/16,2016,6,73
+Venezuela,01/02/16,2016,6,563
+Ecuador,01/02/16,2016,6,242
+Guatemala,01/02/16,2016,6,737
+El Salvador,01/02/16,2016,6,3236
+Nicaragua,01/02/16,2016,6,1778
+Honduras,01/02/16,2016,6,3348
+Costa Rica,01/02/16,2016,6,962
+Colombia,01/02/16,2016,6,4669
+Panama,01/03/16,2016,10,1
+Puerto Rico,01/03/16,2016,10,10
+Argentina,01/03/16,2016,10,51
+Paraguay,01/03/16,2016,10,8
+Mexico,01/03/16,2016,10,102
+Venezuela,01/03/16,2016,10,547
+Bolivia,01/03/16,2016,10,5173
+Ecuador,01/03/16,2016,10,186
+El Salvador,01/03/16,2016,10,685
+Nicaragua,01/03/16,2016,10,2147
+Honduras,01/03/16,2016,10,3254
+Costa Rica,01/03/16,2016,10,205
+Colombia,01/03/16,2016,10,2893
+Brazil,01/03/16,2016,10,2766
+Saint Martin,01/04/16,2016,14,18
+Panama,01/04/16,2016,14,3
+Puerto Rico,01/04/16,2016,14,16
+Argentina,01/04/16,2016,14,48
+Paraguay,01/04/16,2016,14,222
+Mexico,01/04/16,2016,14,84
+Venezuela,01/04/16,2016,14,180
+Bolivia,01/04/16,2016,14,1725
+Guyana,01/04/16,2016,14,149
+Guatemala,01/04/16,2016,14,813
+El Salvador,01/04/16,2016,14,562
+Haiti,01/04/16,2016,14,3
+Nicaragua,01/04/16,2016,14,1137
+French Guyana,01/04/16,2016,14,500
+Honduras,01/04/16,2016,14,1376
+Guadeloupe,01/04/16,2016,14,34
+Costa Rica,01/04/16,2016,14,190
+Colombia,01/04/16,2016,14,3010
+Brazil,01/04/16,2016,14,36251
+Barbados,01/05/16,2016,18,86
+Bahamas,01/05/16,2016,18,76
+Panama,01/05/16,2016,18,1
+Puerto Rico,01/05/16,2016,18,37
+Argentina,01/05/16,2016,18,2596
+Paraguay,01/05/16,2016,18,649
+Mexico,01/05/16,2016,18,18
+Grenada,01/05/16,2016,18,103
+Venezuela,01/05/16,2016,18,316
+Ecuador,01/05/16,2016,18,486
+Peru,01/05/16,2016,18,16
+Guatemala,01/05/16,2016,18,198
+El Salvador,01/05/16,2016,18,278
+Honduras,01/05/16,2016,18,338
+Costa Rica,01/05/16,2016,18,53
+Colombia,01/05/16,2016,18,2343
+Brazil,01/05/16,2016,18,28098
+British Virgin Islands,01/06/16,2016,23,11
+Bermuda,01/06/16,2016,23,3
+Saint Vincent and the Grenadines,01/06/16,2016,23,155
+Turks and Caicos Islands,01/06/16,2016,23,22
+Antigua and Barbuda,01/06/16,2016,23,40
+Anguilla,01/06/16,2016,23,10
+Cayman Islands,01/06/16,2016,23,48
+Puerto Rico,01/06/16,2016,23,19
+Argentina,01/06/16,2016,23,335
+Dominica,01/06/16,2016,23,271
+Montserrat,01/06/16,2016,23,5
+Jamaica,01/06/16,2016,23,205
+Mexico,01/06/16,2016,23,25
+Bolivia,01/06/16,2016,23,8890
+Guatemala,01/06/16,2016,23,197
+El Salvador,01/06/16,2016,23,354
+Saint Lucia,01/06/16,2016,23,114
+French Guyana,01/06/16,2016,23,323
+Honduras,01/06/16,2016,23,2018
+Costa Rica,01/06/16,2016,23,130
+Brazil,01/06/16,2016,23,55580
+Puerto Rico,01/07/16,2016,27,25
+Argentina,01/07/16,2016,27,451
+Paraguay,01/07/16,2016,27,3
+Venezuela,01/07/16,2016,27,449
+Bolivia,01/07/16,2016,27,4270
+Guatemala,01/07/16,2016,27,699
+El Salvador,01/07/16,2016,27,236
+Nicaragua,01/07/16,2016,27,66
+Honduras,01/07/16,2016,27,3191
+Costa Rica,01/07/16,2016,27,107
+Dominican Republic,01/07/16,2016,27,112
+Brazil,01/07/16,2016,27,82228
+Belize,01/08/16,2016,32,59
+Saint Kitts and Nevis,01/08/16,2016,32,28
+Puerto Rico,01/08/16,2016,32,10
+Argentina,01/08/16,2016,32,97
+Venezuela,01/08/16,2016,32,330
+Guatemala,01/08/16,2016,32,202
+El Salvador,01/08/16,2016,32,215
+Honduras,01/08/16,2016,32,801
+Costa Rica,01/08/16,2016,32,422
+Brazil,01/08/16,2016,32,87428
+Puerto Rico,01/09/16,2016,36,24
+Argentina,01/09/16,2016,36,138
+Guatemala,01/09/16,2016,36,1485
+El Salvador,01/09/16,2016,36,177
+Costa Rica,01/09/16,2016,36,552
+Colombia,01/09/16,2016,36,503
+Brazil,01/09/16,2016,36,128674
+Puerto Rico,01/10/16,2016,40,20
+Bolivia,01/10/16,2016,40,359
+Peru,01/10/16,2016,40,216
+Costa Rica,01/10/16,2016,40,402
+Colombia,01/10/16,2016,40,202
+Brazil,01/10/16,2016,40,87428
+Puerto Rico,01/11/16,2016,45,14
+Paraguay,01/11/16,2016,45,11
+Mexico,01/11/16,2016,45,87
+Bolivia,01/11/16,2016,45,256
+Peru,01/11/16,2016,45,20
+Guatemala,01/11/16,2016,45,705
+El Salvador,01/11/16,2016,45,90
+Costa Rica,01/11/16,2016,45,192
+Colombia,01/11/16,2016,45,121
+Brazil,01/11/16,2016,45,20185
+Puerto Rico,01/12/16,2016,49,10
+Paraguay,01/12/16,2016,49,7
+Mexico,01/12/16,2016,49,51
+Venezuela,01/12/16,2016,49,651
+Peru,01/12/16,2016,49,36
+Guatemala,01/12/16,2016,49,266
+El Salvador,01/12/16,2016,49,121
+Costa Rica,01/12/16,2016,49,146
+Colombia,01/12/16,2016,49,288
+Brazil,01/12/16,2016,49,27311
+Venezuela,01/01/17,2017,1,11
+Peru,01/01/17,2017,1,51
+El Salvador,01/01/17,2017,1,26
+Costa Rica,01/01/17,2017,1,27
+Colombia,01/01/17,2017,1,67
+Puerto Rico,01/02/17,2017,6,3
+Paraguay,01/02/17,2017,6,2
+Mexico,01/02/17,2017,6,6
+Venezuela,01/02/17,2017,6,18
+Ecuador,01/02/17,2017,6,9
+Peru,01/02/17,2017,6,139
+El Salvador,01/02/17,2017,6,33
+Costa Rica,01/02/17,2017,6,48
+Colombia,01/02/17,2017,6,138
+Brazil,01/02/17,2017,6,3754
+Panama,01/03/17,2017,10,317
+Puerto Rico,01/03/17,2017,10,2
+Mexico,01/03/17,2017,10,2
+Venezuela,01/03/17,2017,10,50
+Bolivia,01/03/17,2017,10,539
+Ecuador,01/03/17,2017,10,20
+Peru,01/03/17,2017,10,211
+El Salvador,01/03/17,2017,10,106
+Nicaragua,01/03/17,2017,10,8
+Costa Rica,01/03/17,2017,10,51
+Colombia,01/03/17,2017,10,220
+Brazil,01/03/17,2017,10,2184
+Panama,01/04/17,2017,14,305
+Puerto Rico,01/04/17,2017,14,2
+Paraguay,01/04/17,2017,14,69
+Mexico,01/04/17,2017,14,2
+Venezuela,01/04/17,2017,14,12
+Ecuador,01/04/17,2017,14,37
+Peru,01/04/17,2017,14,208
+Guatemala,01/04/17,2017,14,40
+El Salvador,01/04/17,2017,14,45
+Nicaragua,01/04/17,2017,14,309
+Costa Rica,01/04/17,2017,14,20
+Colombia,01/04/17,2017,14,80
+Brazil,01/04/17,2017,14,16560
+Saint Barthelemy,01/05/17,2017,19,2
+Martinique,01/05/17,2017,19,9
+Saint Martin,01/05/17,2017,19,2
+Panama,01/05/17,2017,19,407
+Puerto Rico,01/05/17,2017,19,1
+Paraguay,01/05/17,2017,19,2
+Mexico,01/05/17,2017,19,5
+Venezuela,01/05/17,2017,19,18
+Bolivia,01/05/17,2017,19,750
+Ecuador,01/05/17,2017,19,19
+Peru,01/05/17,2017,19,439
+El Salvador,01/05/17,2017,19,39
+Nicaragua,01/05/17,2017,19,57
+French Guyana,01/05/17,2017,19,84
+Guadeloupe,01/05/17,2017,19,5
+Costa Rica,01/05/17,2017,19,20
+Colombia,01/05/17,2017,19,115
+Brazil,01/05/17,2017,19,54095
+Saint Barthelemy,01/06/17,2017,23,1
+Martinique,01/06/17,2017,23,5
+Saint Martin,01/06/17,2017,23,1
+Panama,01/06/17,2017,23,200
+Mexico,01/06/17,2017,23,2
+Bolivia,01/06/17,2017,23,1789
+Ecuador,01/06/17,2017,23,70
+Peru,01/06/17,2017,23,185
+Guatemala,01/06/17,2017,23,77
+El Salvador,01/06/17,2017,23,85
+Nicaragua,01/06/17,2017,23,96
+Guadeloupe,01/06/17,2017,23,4
+Costa Rica,01/06/17,2017,23,33
+Colombia,01/06/17,2017,23,91
+Panama,01/07/17,2017,27,200
+Paraguay,01/07/17,2017,27,1
+Mexico,01/07/17,2017,27,2
+Bolivia,01/07/17,2017,27,63
+Peru,01/07/17,2017,27,198
+El Salvador,01/07/17,2017,27,48
+Nicaragua,01/07/17,2017,27,79
+Costa Rica,01/07/17,2017,27,63
+Colombia,01/07/17,2017,27,89
+Brazil,01/07/17,2017,27,50800
+Martinique,01/08/17,2017,32,10
+Panama,01/08/17,2017,32,607
+Mexico,01/08/17,2017,32,3
+Bolivia,01/08/17,2017,32,64
+Peru,01/08/17,2017,32,56
+Guatemala,01/08/17,2017,32,16
+El Salvador,01/08/17,2017,32,30
+Nicaragua,01/08/17,2017,32,65
+Guadeloupe,01/08/17,2017,32,2
+Costa Rica,01/08/17,2017,32,27
+Colombia,01/08/17,2017,32,64
+Brazil,01/08/17,2017,32,31386
+Panama,01/09/17,2017,36,431
+Mexico,01/09/17,2017,36,2
+Venezuela,01/09/17,2017,36,157
+Bolivia,01/09/17,2017,36,30
+Ecuador,01/09/17,2017,36,30
+Peru,01/09/17,2017,36,122
+Guatemala,01/09/17,2017,36,76
+El Salvador,01/09/17,2017,36,57
+Nicaragua,01/09/17,2017,36,38
+French Guyana,01/09/17,2017,36,211
+Costa Rica,01/09/17,2017,36,53
+Colombia,01/09/17,2017,36,109
+Brazil,01/09/17,2017,36,37183
+Panama,01/10/17,2017,40,21
+Mexico,01/10/17,2017,40,4
+Bolivia,01/10/17,2017,40,37
+Ecuador,01/10/17,2017,40,5
+Peru,01/10/17,2017,40,127
+Guatemala,01/10/17,2017,40,29
+El Salvador,01/10/17,2017,40,48
+Nicaragua,01/10/17,2017,40,28
+Costa Rica,01/10/17,2017,40,50
+Colombia,01/10/17,2017,40,73
+Panama,01/11/17,2017,45,5
+Mexico,01/11/17,2017,45,8
+Venezuela,01/11/17,2017,45,81
+Bolivia,01/11/17,2017,45,14
+Ecuador,01/11/17,2017,45,2
+Peru,01/11/17,2017,45,15
+Guatemala,01/11/17,2017,45,12
+El Salvador,01/11/17,2017,45,31
+Nicaragua,01/11/17,2017,45,26
+Costa Rica,01/11/17,2017,45,15
+Colombia,01/11/17,2017,45,44
+Martinique,01/12/17,2017,49,30
+Paraguay,01/12/17,2017,49,3
+Mexico,01/12/17,2017,49,20
+Venezuela,01/12/17,2017,49,5
+Bolivia,01/12/17,2017,49,72
+Ecuador,01/12/17,2017,49,4
+Peru,01/12/17,2017,49,67
+Guatemala,01/12/17,2017,49,16
+El Salvador,01/12/17,2017,49,33
+Nicaragua,01/12/17,2017,49,27
+Guadeloupe,01/12/17,2017,49,45
+Costa Rica,01/12/17,2017,49,51
+Colombia,01/12/17,2017,49,55
